@@ -1,0 +1,1 @@
+ul{display:flex;flex-wrap:wrap;gap:30px}ul li{border:1px solid #000;padding:50px;position:relative}.window{border:1px solid #000;background-color:#635fcd;height:300px;width:300px;text-align:center;position:fixed;top:40%;left:40%}.window .close{display:none}
